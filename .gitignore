@@ -9,13 +9,9 @@ __pycache__/
 data 
 models
 reports
-ml_env
-params.yaml
 
-.dvc
-dvclive
-.dvcignore
-dvc.yaml
+
+
 # Distribution / packaging
 .Python
 build/
